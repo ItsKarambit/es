@@ -1,4 +1,4 @@
-var colour="white";
+var colour="random";
 		var sparkles=50;
 
 		var x=ox=400;
@@ -180,9 +180,9 @@ var colour="white";
 
 		function newColour() {
 		  var c=new Array();
-		  c[0]=255;
-		  c[0]=Math.floor(Math.random()*256);
-		  c[0]=Math.floor(Math.random()*(256-c[1]/2));
+		  c[0]=255, 255, 255
+		  c[0]=0, 0, 0
+		  c[0]=135,15,6;
 		  c.sort(function(){return (0.5 - Math.random());});
 		  return ("rgb("+c[0]+", "+c[1]+", "+c[2]+")");
 		}

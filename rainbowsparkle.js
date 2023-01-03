@@ -184,5 +184,5 @@ var colour="random";
 		  c[0]=0, 0, 0
 		  c[0]=135,15,6;
 		  c.sort(function(){return (0.5 - Math.random());});
-		  return ("rgb("+c[0]+", "+c[0]+", "+c[0]+")");
+		  return ("rgb("+c[0]=255, 255, 255", "+c[0]=0, 0, 0", "+c[0]=135,15,6")");
 		}

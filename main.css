@@ -41,7 +41,7 @@
     place-items: center;
     width: 100vw;
     height: 100vw;
-    color: rgb(135, 15, 6);
+    color: rgb(23, 95, 28);
     font-size: 2rem;
   }
   .text-content a:hover {
@@ -66,7 +66,7 @@
     display: grid;
     place-content: center;
     text-align: center;
-    color: rgb(135, 15, 6);
+    color: rgb(23, 95, 28);
   }
   .text-content h1 {
     font-size: 3rem;
